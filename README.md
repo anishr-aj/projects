@@ -1,4 +1,4 @@
-# 🌐 My Projects
+# 💻 My Projects
 
 ### **1. Indmei**
 A cinematic-inspired website drawing vibes from **Baahubali**, **Kurukshetra**, **Narasimha**, and other epic universes.  
